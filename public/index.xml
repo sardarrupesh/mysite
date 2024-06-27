@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Welcome</title>
-    <link>http://localhost:1313/</link>
+    <link>https://bugtrackhack.me/</link>
     <description>Recent content in Home on Welcome</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Jun 2024 08:17:26 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bugtrackhack.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demonstrating latex in hugo</title>
-      <link>http://localhost:1313/posts/mathjsx-demo-post/</link>
+      <link>https://bugtrackhack.me/posts/mathjsx-demo-post/</link>
       <pubDate>Tue, 18 Jun 2024 08:17:26 +0300</pubDate>
-      <guid>http://localhost:1313/posts/mathjsx-demo-post/</guid>
+      <guid>https://bugtrackhack.me/posts/mathjsx-demo-post/</guid>
       <description>This blog post demonstrates how to use LaTeX in Hugo for various types of equations and theories, including mathematics, physics, and chemistry.&#xA;Mathematical Equations For some reason the latex is working in local for this particular repo but not when deployed due to uncertain reason to see the latex demo for saral you can visit the demo post in my personal portfolio as of now. Here Quadratic Formula The quadratic formula is used to solve quadratic equations and is given by: @ ( x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} ) @</description>
     </item>
     <item>
       <title>Binary Opeations a Quick Eye Guide</title>
-      <link>http://localhost:1313/posts/binary-opeations-a-quick-eye-guide/</link>
+      <link>https://bugtrackhack.me/posts/binary-opeations-a-quick-eye-guide/</link>
       <pubDate>Thu, 30 May 2024 09:25:13 +0300</pubDate>
-      <guid>http://localhost:1313/posts/binary-opeations-a-quick-eye-guide/</guid>
+      <guid>https://bugtrackhack.me/posts/binary-opeations-a-quick-eye-guide/</guid>
       <description>Understanding Logic Gates Logic gates are the basic building blocks of digital circuits. They perform simple logical functions that are fundamental to digital electronics. In this post, we will explore the common types of logic gates and their functions.&#xA;1. AND Gate The AND gate is a digital logic gate that implements logical conjunction. It outputs true only if all the inputs are true. The truth table for an AND gate is as follows:</description>
     </item>
     <item>
       <title>How to install Java</title>
-      <link>http://localhost:1313/posts/how-to-install-java/</link>
+      <link>https://bugtrackhack.me/posts/how-to-install-java/</link>
       <pubDate>Mon, 11 Mar 2024 14:04:46 +0300</pubDate>
-      <guid>http://localhost:1313/posts/how-to-install-java/</guid>
+      <guid>https://bugtrackhack.me/posts/how-to-install-java/</guid>
       <description>&lt;p&gt;Java is a versatile and widely used programming language that powers numerous applications, from enterprise-level systems to mobile applications. Installing Java on your machine is a straightforward process, and this guide will walk you through the steps.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://bugtrackhack.me/project/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/</guid>
+      <guid>https://bugtrackhack.me/project/</guid>
       <description>Vulnerable Airbnb The &amp;#34;Vulnerable Airbnb Project&amp;#34; aims to investigate and understand the security vulnerabilities associated with room booking websites, with a focus on Airbnb as a case study. Airbnb, which facilitates homestays and experiences, acts as a broker and charges a commission from each booking. This project is crucial in identifying the potential risks that can compromise the safety and trust of users, both hosts and guests, who rely on these platforms for their accommodation needs.</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://bugtrackhack.me/about/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://bugtrackhack.me/about/</guid>
       <description>About Me 👋 I am Rupesh Sardar, an Application Security Engineer and Penetration Tester with a deep-seated passion for cybersecurity. My expertise spans across various programming languages and cybersecurity tools, enabling me to excel in bug bounty hunting and malware analysis. I thrive on the challenges of Capture the Flag competitions, which sharpen my analytical skills and innovative problem-solving abilities. Committed to continuous learning, I aim to stay ahead of emerging threats and collaborate with peers to enhance digital security.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://bugtrackhack.me/contact/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://bugtrackhack.me/contact/</guid>
       <description>Get in Touch! 👋 Hey there,🚀&#xA;I&amp;rsquo;m so glad you stopped by. Whether you have a pressing question, an innovative project idea, or just want to geek out about code, I&amp;rsquo;m here for it.&#xA;If you&amp;rsquo;re interested in collaborating as an Application Security Engineer, Penetration Tester, Malware Analyst, or CTF Player, let&amp;rsquo;s kick off an amazing conversation. Feel free to reach out, and I&amp;rsquo;ll respond as soon as I can.</description>
     </item>
     <item>
       <title>Journey</title>
-      <link>http://localhost:1313/journey/</link>
+      <link>https://bugtrackhack.me/journey/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/journey/</guid>
+      <guid>https://bugtrackhack.me/journey/</guid>
       <description>🚀 My Journey 💼 Experience : Security Enginner PentesterSpace.&#xA;July 2020 – October 2021&#xA;Bug Bounty Hunter HackerOne, Bugcrowd, Intigriti.&#xA;2020 - Present&#xA;🚩 Capture the Flag(CTF) Hack The Box Top 500 in the world.&#xA;2019 - Present&#xA;TryHackMe Top 1%, 300 Rank World Wide.&#xA;2018 - Present&#xA;🎓 Education : MSc Computer Science Visva-Bharati Univercity&#xA;2021 - 2023&#xA;BSc Computer Science Visva-Bharati Univercity&#xA;2017 - 2020</description>
     </item>
   </channel>

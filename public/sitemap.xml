@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/demo/</loc>
+    <loc>https://bugtrackhack.me/tags/demo/</loc>
     <lastmod>2024-06-18T08:17:26+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mathjsx-demo-post/</loc>
+    <loc>https://bugtrackhack.me/posts/mathjsx-demo-post/</loc>
     <lastmod>2024-06-18T08:17:26+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/latex/</loc>
+    <loc>https://bugtrackhack.me/tags/latex/</loc>
     <lastmod>2024-06-18T08:17:26+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://bugtrackhack.me/tags/</loc>
     <lastmod>2024-06-18T08:17:26+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/binary-opeations-a-quick-eye-guide/</loc>
+    <loc>https://bugtrackhack.me/posts/binary-opeations-a-quick-eye-guide/</loc>
     <lastmod>2024-05-30T09:25:13+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/how-to-install-java/</loc>
+    <loc>https://bugtrackhack.me/posts/how-to-install-java/</loc>
     <lastmod>2024-03-11T14:04:46+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/installation/</loc>
+    <loc>https://bugtrackhack.me/tags/installation/</loc>
     <lastmod>2024-03-11T14:04:46+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/java/</loc>
+    <loc>https://bugtrackhack.me/tags/java/</loc>
     <lastmod>2024-03-11T14:04:46+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://bugtrackhack.me/project/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://bugtrackhack.me/about/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://bugtrackhack.me/contact/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/journey/</loc>
+    <loc>https://bugtrackhack.me/journey/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://bugtrackhack.me/posts/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://bugtrackhack.me/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://bugtrackhack.me/categories/</loc>
   </url>
 </urlset>
