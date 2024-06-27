@@ -1,0 +1,42 @@
+- title: Vulnerable Airbnb
+  description: The "Vulnerable Airbnb Project" aims to investigate and understand the security vulnerabilities associated with room booking websites, with a focus on Airbnb as a case study. Airbnb, which facilitates homestays and experiences, acts as a broker and charges a commission from each booking. This project is crucial in identifying the potential risks that can compromise the safety and trust of users, both hosts and guests, who rely on these platforms for their accommodation needs. By highlighting these vulnerabilities, the project seeks to develop strategies and recommendations to enhance the security and reliability of room booking websites.
+  username: sardarrupesh
+  reponame: Employee-Management-System
+  stack:
+    - django
+    - html
+    - react
+    - javascript
+    - postgresql
+  features:
+    - Authentication and Authorization Vulnerabilities.
+    - OWASP Top 10 Vulnerabilities.
+    - Bisness Logic Vulnerabilities.
+    
+
+- title: ASNinja
+  description: ASNinja creator specializing in ASN number-based domain discovery, web security attacks, and network scans.Proven track record fortifying digital landscapes through strategic cybersecurity measures.
+  username: sardarrupesh
+  reponame: saral-hugo-theme
+  # livedemo: https://saral-hugo-theme.pages.dev/
+  stack:
+    - go
+    - bash
+    - python
+    - shodan
+  features:
+    - Subdomain finder using ASN number.
+    - Web security attacks.
+    - Network scans.
+   
+    
+- title: Malware Analysis
+  description: Reverse Engineer ed x86 assembly and developed tools for static and dynamic analysis of Malware Samples.
+  username: sardarrupesh
+  reponame: Malware-Analysis
+  stack:
+    - python
+  features:
+    - Malware Analysis report .
+
+

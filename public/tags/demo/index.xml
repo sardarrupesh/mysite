@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on Welcome</title>
+    <link>http://localhost:1313/tags/demo/</link>
+    <description>Recent content in Demo on Welcome</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jun 2024 08:17:26 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demonstrating latex in hugo</title>
+      <link>http://localhost:1313/posts/mathjsx-demo-post/</link>
+      <pubDate>Tue, 18 Jun 2024 08:17:26 +0300</pubDate>
+      <guid>http://localhost:1313/posts/mathjsx-demo-post/</guid>
+      <description>This blog post demonstrates how to use LaTeX in Hugo for various types of equations and theories, including mathematics, physics, and chemistry.&#xA;Mathematical Equations For some reason the latex is working in local for this particular repo but not when deployed due to uncertain reason to see the latex demo for saral you can visit the demo post in my personal portfolio as of now. Here Quadratic Formula The quadratic formula is used to solve quadratic equations and is given by: @ ( x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} ) @</description>
+    </item>
+  </channel>
+</rss>

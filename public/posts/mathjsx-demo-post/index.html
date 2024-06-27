@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html
+  lang="en-us"
+  dir="ltr"
+>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" />
+<title>
+  Demonstrating latex in hugo | Welcome
+</title>
+
+<link rel="stylesheet" href="/css/main.css" />
+
+
+    
+      <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['@@', '@@']],  
+      inlineMath: [['@', '@']]                  
+    }
+  };
+</script>
+
+
+    
+
+  </head>
+  <body>
+    <header>
+<nav class="navbar">
+  <a href="/">
+    
+    <p class="logo">Hii&gt;</p>
+  </a>
+<input type="checkbox" id="overlay-input" />
+<label for="overlay-input" id="overlay-button"><span></span></label>
+  <div id="overlay">
+    <ul>
+
+    <li>
+      <a href="/">Home</a>
+    </li>
+
+    <li>
+      <a href="/posts/">Posts</a>
+    </li>
+
+    <li>
+      <a href="/project/">Project</a>
+    </li>
+
+    <li>
+      <a href="/about/">About</a>
+    </li>
+
+    <li>
+      <a href="/journey/">Journey</a>
+    </li>
+
+    <li>
+      <a href="/contact/">Contact</a>
+    </li>
+  <li><a href="/Resume.pdf" download class="resume">Resume</a></li>
+      <li><button id="mode-toggle">☀️</button></li>
+    </ul>
+  </div>
+</nav>
+</header>
+
+    
+
+<main class="main-content">
+   <section class="meta-heading">
+  <h1>Demonstrating latex in hugo</h1>
+  <span>
+      
+    <time datetime="2024-06-18T08:17:26&#43;03:00">June 18, 2024</time>
+     
+<div class="post-tags">
+  <div>
+    
+    <span>
+      <a href="/tags/latex/">Latex</a>
+    </span>
+    <span>
+      <a href="/tags/demo/">Demo</a>
+    </span>
+  </div>
+</div>
+
+  </span>
+</section>
+
+  <section class="post">
+    <p>This blog post demonstrates how to use LaTeX in Hugo for various types of equations and theories, including mathematics, physics, and chemistry.</p>
+<h3 id="mathematical-equations">Mathematical Equations</h3>
+<div class="note">
+  <strong></strong>
+  
+For some reason the latex is working in local for this particular repo but not when deployed due to uncertain reason to see the latex demo for saral you can visit the demo post in my personal portfolio as of now.
+<a href="https://dipesh.dev/posts/mathjsx-demo-post" target="blank"> Here </a>
+
+</div>
+
+<h4 id="quadratic-formula">Quadratic Formula</h4>
+<p>The quadratic formula is used to solve quadratic equations and is given by:
+@ ( x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} ) @</p>
+<h4 id="pythagorean-theorem">Pythagorean Theorem</h4>
+<p>The Pythagorean theorem relates the lengths of the sides of a right triangle:
+@ ( a^2 + b^2 = c^2 ) @</p>
+<h4 id="eulers-identity">Euler&rsquo;s Identity</h4>
+<p>Euler&rsquo;s identity is a famous equation in mathematics:
+@ ( e^{i\pi} + 1 = 0 ) @</p>
+<h3 id="physics-equations">Physics Equations</h3>
+<h4 id="newtons-second-law">Newton&rsquo;s Second Law</h4>
+<p>Newton&rsquo;s second law states that the force acting on an object is equal to its mass times its acceleration:
+@ ( F = ma ) @</p>
+<h4 id="einsteins-mass-energy-equivalence">Einstein&rsquo;s Mass-Energy Equivalence</h4>
+<p>Einstein&rsquo;s mass-energy equivalence formula is one of the most famous equations in physics:
+@ ( E = mc^2 ) @</p>
+<h4 id="gravitational-force">Gravitational Force</h4>
+<p>The gravitational force between two masses is given by Newton&rsquo;s law of gravitation:
+@ ( F = G \frac{m_1 m_2}{r^2} ) @</p>
+<h3 id="chemistry-equations">Chemistry Equations</h3>
+<h4 id="water-molecule">Water Molecule</h4>
+<p>The chemical formula for water is:
+@ \text{H}_2\text{O} @</p>
+<h4 id="ideal-gas-law">Ideal Gas Law</h4>
+<p>The ideal gas law relates the pressure, volume, and temperature of an ideal gas:
+@ ( PV = nRT ) @</p>
+<h4 id="chemical-reaction">Chemical Reaction</h4>
+<p>An example of a chemical reaction, the combustion of methane:
+@ \text{CH}_4 + 2\text{O}_2 \rightarrow \text{CO}_2 + 2\text{H}_2\text{O} @</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Using LaTeX in Hugo with the configured delimiters allows for the clear and accurate representation of complex equations in blog posts. This is particularly useful for content related to mathematics, physics, and chemistry.</p>
+<h2 id="configuration">Configuration</h2>
+<p>To enable LaTeX in Hugo, add the following configuration to your <code>config.toml</code> file:</p>
+<div class="highlight"><pre tabindex="0" style="color:#b0c4de;background-color:#282c34;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[<span style="color:#c1abea">markup</span>]
+</span></span><span style="display:flex;"><span>  [<span style="color:#c1abea">markup</span>.<span style="color:#c1abea">goldmark</span>]
+</span></span><span style="display:flex;"><span>    [<span style="color:#c1abea">markup</span>.<span style="color:#c1abea">goldmark</span>.<span style="color:#c1abea">extensions</span>]
+</span></span><span style="display:flex;"><span>      [<span style="color:#c1abea">markup</span>.<span style="color:#c1abea">goldmark</span>.<span style="color:#c1abea">extensions</span>.<span style="color:#c1abea">passthrough</span>]
+</span></span><span style="display:flex;"><span>        [<span style="color:#c1abea">markup</span>.<span style="color:#c1abea">goldmark</span>.<span style="color:#c1abea">extensions</span>.<span style="color:#c1abea">passthrough</span>.<span style="color:#c1abea">delimiters</span>]
+</span></span><span style="display:flex;"><span>          <span style="color:#c1abea">block</span> = [[<span style="color:#98c379">&#39;@@&#39;</span>, <span style="color:#98c379">&#39;@@&#39;</span>]]
+</span></span><span style="display:flex;"><span>          <span style="color:#c1abea">inline</span> = [[<span style="color:#98c379">&#39;@&#39;</span>, <span style="color:#98c379">&#39;@&#39;</span>]]
+</span></span></code></pre></div> 
+  </section>
+  
+</main>
+
+
+    <footer><p>&copy; 2024 Rupesh , Thank you for visiting
+
+<script src="/js/main.js"></script>
+
+<script type="module">
+  
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-analytics.js";
+  
+  
+
+  
+  
+  const firebaseConfig = {
+    apiKey: "AIzaSyBIwqlqJIq_2b_rf591yR9u-2NzgM-xsS8",
+    authDomain: "dipesh-portfolio-bdedd.firebaseapp.com",
+    projectId: "dipesh-portfolio-bdedd",
+    storageBucket: "dipesh-portfolio-bdedd.appspot.com",
+    messagingSenderId: "428414229465",
+    appId: "1:428414229465:web:5281ebc16c89c7cb7197c8",
+    measurementId: "G-39YB09S2GZ"
+  };
+
+  
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
+
+<script>
+  var prevScrollPos = window.pageYOffset;
+  var checkBox = document.getElementById("overlay-input");
+
+
+  window.onscroll = function () {
+    var currentScrollPos = window.pageYOffset;
+    var header = document.getElementsByTagName("header")[0];
+
+    if (prevScrollPos > currentScrollPos) {
+      header.style.display = "flex";
+    } else {
+      header.style.display = "none";
+      checkBox.checked = false;
+    }
+    prevScrollPos = currentScrollPos;
+  };
+</script>
+<script>
+  
+  document.querySelectorAll("pre > code").forEach((codeblock) => {
+    const container = codeblock.parentNode.parentNode;
+
+    const copybutton = document.createElement("button");
+    copybutton.classList.add("copy-code");
+    copybutton.innerText = 'copy';
+
+    function copyingDone() {
+      copybutton.innerText = 'copied!';
+      setTimeout(() => {
+        copybutton.innerText = 'copy';
+      }, 2000);
+    }
+
+    copybutton.addEventListener("click", (cb) => {
+      if ("clipboard" in navigator) {
+        navigator.clipboard.writeText(codeblock.textContent);
+        copyingDone();
+        return;
+      }
+
+      const range = document.createRange();
+      range.selectNodeContents(codeblock);
+      const selection = window.getSelection();
+      selection.removeAllRanges();
+      selection.addRange(range);
+      try {
+        document.execCommand("copy");
+        copyingDone();
+      } catch (e) {}
+      selection.removeRange(range);
+    });
+
+if (container.classList.contains("highlight")) {
+
+      container.appendChild(copybutton);
+    } else if (container.parentNode.firstChild == container) {
+      
+    } else if (
+      codeblock.parentNode.parentNode.parentNode.parentNode.parentNode
+        .nodeName == "TABLE"
+    ) {
+      
+      codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(
+        copybutton
+      );
+    } else {
+      
+      codeblock.parentNode.appendChild(copybutton);
+    }
+  });
+</script>
+
+</footer>
+  </body>
+</html>

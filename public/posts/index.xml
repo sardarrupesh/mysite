@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Welcome</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Welcome</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jun 2024 08:17:26 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demonstrating latex in hugo</title>
+      <link>http://localhost:1313/posts/mathjsx-demo-post/</link>
+      <pubDate>Tue, 18 Jun 2024 08:17:26 +0300</pubDate>
+      <guid>http://localhost:1313/posts/mathjsx-demo-post/</guid>
+      <description>This blog post demonstrates how to use LaTeX in Hugo for various types of equations and theories, including mathematics, physics, and chemistry.&#xA;Mathematical Equations For some reason the latex is working in local for this particular repo but not when deployed due to uncertain reason to see the latex demo for saral you can visit the demo post in my personal portfolio as of now. Here Quadratic Formula The quadratic formula is used to solve quadratic equations and is given by: @ ( x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} ) @</description>
+    </item>
+    <item>
+      <title>Binary Opeations a Quick Eye Guide</title>
+      <link>http://localhost:1313/posts/binary-opeations-a-quick-eye-guide/</link>
+      <pubDate>Thu, 30 May 2024 09:25:13 +0300</pubDate>
+      <guid>http://localhost:1313/posts/binary-opeations-a-quick-eye-guide/</guid>
+      <description>Understanding Logic Gates Logic gates are the basic building blocks of digital circuits. They perform simple logical functions that are fundamental to digital electronics. In this post, we will explore the common types of logic gates and their functions.&#xA;1. AND Gate The AND gate is a digital logic gate that implements logical conjunction. It outputs true only if all the inputs are true. The truth table for an AND gate is as follows:</description>
+    </item>
+    <item>
+      <title>How to install Java</title>
+      <link>http://localhost:1313/posts/how-to-install-java/</link>
+      <pubDate>Mon, 11 Mar 2024 14:04:46 +0300</pubDate>
+      <guid>http://localhost:1313/posts/how-to-install-java/</guid>
+      <description>&lt;p&gt;Java is a versatile and widely used programming language that powers numerous applications, from enterprise-level systems to mobile applications. Installing Java on your machine is a straightforward process, and this guide will walk you through the steps.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
